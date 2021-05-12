@@ -7,6 +7,8 @@ In order to make this webpage more accessible, I did the following:
 * Entered a concise, descriptive text in `<title>`
 * I re-ordered all CSS and commented it so that it paralleled the HTML
 
+You can find the page at: <https://giocalix4.github.io/horiseon/>.
+
 The result is:
 
 ![Horiseon webpage](horiseon-demo.png)
